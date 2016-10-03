@@ -1,0 +1,21 @@
+{
+    "name": "fbl1991/yii2-news",
+    "description": "a yii2 news extension",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","news"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "fbl1991",
+            "email": "fangbolang@163.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "fbl\\news\\": ""
+        }
+    }
+}
